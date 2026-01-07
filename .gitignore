@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local SDK path (do NOT commit)
+local.properties
+
+# Gradle
+.gradle/
+
+# Build outputs
+**/build/
